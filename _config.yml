@@ -3,9 +3,9 @@ repository: fadytadrous
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: fady tadrous
+title: Bio-Engineer
+email: fadytadrous.ft@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Social links
@@ -58,3 +58,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+url: fadytadrous.github.io
+baseurl: /My-CV
