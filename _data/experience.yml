@@ -5,10 +5,6 @@
   description: | # this will include new lines to allow
           Managing the ceremonies and controlling the gates in Africa cup of nations 2019.
 - layout: left
-  company: Mediterranean Youth Forum
-  job_title: Cultural exchange officer
-  dates: July 2019 - Present
-- layout: left
   company: IEEE CUSB
   job_title: Human Resources
   dates: November 2017 - July 2018
@@ -20,4 +16,7 @@
   link: souq.com
   job_title: Online Seller
   dates: November 2018 -  Present
-    
+- layout: left
+  company: Mediterranean Youth Forum
+  job_title: Cultural exchange officer
+  dates: July 2019 - Present
