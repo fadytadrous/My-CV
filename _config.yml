@@ -3,10 +3,10 @@ repository: fadytadrous
 # favicon: images/favicon.ico
 
 # Personal info
-name: fady tadrous
-title: Bio-Engineer
+name: Fady Tadrous
+title: Biomedical-Engineer
 email: fadytadrous.ft@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/fadytadrous
 
 # Social links
 twitter_username: facespics
@@ -22,11 +22,10 @@ youtube_username: globalmtb
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Fady and I'm a student in faculty of engineering Cairo university.
+  I am most skilled in: <mark>Time management</mark> and <mark>Eating kebda</mark>
 
 # Projects Section
 # projects_title: Projects
