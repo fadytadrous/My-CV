@@ -1,9 +1,7 @@
 - layout: top-middle
   name: Huffman code
-  link: github.com/sproogen
-  github: 
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  link: github.com/fadytadrous/sbe201-2019-final-project-sbe201-2021-team06
+  github: fadytadrous
   description: | # this will include new lines to allow paragraphs
     Me and my teammates made a Tree of Huffman nodes with members
     i.Frequency
