@@ -25,7 +25,7 @@ youtube_username: globalmtb
 about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Fady and I'm a student in faculty of engineering Cairo university.
-  I am most skilled in: <mark>Time management</mark> and <mark>Eating kebda</mark>
+  I'm most skilled in: <mark>Time management</mark> and <mark>Eating kebda</mark>
 
 # Projects Section
 # projects_title: Projects
