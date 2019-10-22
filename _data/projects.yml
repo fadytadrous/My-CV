@@ -5,8 +5,8 @@
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-Me and my teammates made a Tree of Huffman nodes with members
-i.Frequency
-ii.Code
-iii.Pointers left , right and top
-It iterates over a certain input text file, count words frequency and compress the text file in another text file with just ones and zeros.
+    Me and my teammates made a Tree of Huffman nodes with members
+    i.Frequency
+    ii.Code
+    iii.Pointers left , right and top
+    It iterates over a certain input text file, count words frequency and compress the text file in another text file with just ones and zeros.
