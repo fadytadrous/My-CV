@@ -1,22 +1,10 @@
+# Experience template
 - layout: left
-  company: CAF
-  job_title: Event Organizer
-  dates: May 2019 - July 2019
-  description: | # this will include new lines to allow
-          Managing the ceremonies and controlling the gates in Africa cup of nations 2019.
-- layout: left
-  company: IEEE CUSB
-  job_title: Human Resources
-  dates: November 2017 - July 2018
+  company: Company name
+  link: Link to company (optional)
+  job_title: Job title
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    -Responsible of managing the sessions
-    -participants evaluation during the courses given by IEEE in Cairo University
-    layout: left
-  company: Souq.com (an Amazon company)
-  link: souq.com
-  job_title: Online Seller
-  dates: November 2018 -  Present
-- layout: left
-  company: Mediterranean Youth Forum
-  job_title: Cultural exchange officer
-  dates: July 2019 - Present
+    Description of role
