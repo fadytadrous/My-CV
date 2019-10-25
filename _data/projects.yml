@@ -1,9 +1,10 @@
-# Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: Huffman code
+  link: github.com/fadytadrous/sbe201-2019-final-project-sbe201-2021-team06
+  github: fadytadrous
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Me and my teammates made a Tree of Huffman nodes with members
+    i.Frequency
+    ii.Code
+    iii.Pointers left , right and top
+    It iterates over a certain input text file, count words frequency and compress the text file in another text file with just ones and zeros.
