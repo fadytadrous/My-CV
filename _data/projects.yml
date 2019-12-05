@@ -3,8 +3,14 @@
   link: github.com/fadytadrous/sbe201-2019-final-project-sbe201-2021-team06
   github: fadytadrous
   description: | # this will include new lines to allow paragraphs
-    Me and my teammates made a Tree of Huffman nodes with members
-    i.Frequency
-    ii.Code
-    iii.Pointers left , right and top
+    Me and my teammates made a Tree of Huffman nodes with members <br\>
+    i.Frequency <br\>
+    ii.Code <br\>
+    iii.Pointers left , right and top <br\>
     It iterates over a certain input text file, count words frequency and compress the text file in another text file with just ones and zeros.
+- layout: top-middle
+  name: Haberman's Machine Learning
+  link: https://sbme-tutorials.github.io/sbe304-fall19-project-sbe304-2021-team4/
+  github: fadytadrous
+  description: | # this will include new lines to allow paragraphs
+    Here we study Haberman's data using three different methods, click on the link to find more.x  
