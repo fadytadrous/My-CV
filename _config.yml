@@ -29,12 +29,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Cycling
-   - Gaming
-   - Playing piano
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+Blogs: | # this will include new lines to allow paragraphs
+
+   - [Haberman's Project](https://sbme-tutorials.github.io/sbe304-fall19-project-sbe304-2021-team4/)
 
 # Footer
 footer_show_references: true
