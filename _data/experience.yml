@@ -3,14 +3,14 @@
   company: CAF
   job_title: Event Organizer
   dates: May 2019 - July 2019
-  description: | # this will include new lines to allow
+  description: |  # this will include new lines to allow
           Managing the ceremonies and controlling the gates in Africa cup of nations 2019.
 - layout: left
   company: IEEE CUSB
   job_title: Human Resources
   dates: November 2017 - July 2018
-  description: | # this will include new lines to allow paragraphs
-    -Responsible of managing the sessions
+  description: >  # this will include new lines to allow paragraphs
+    -Responsible of managing the sessions 
     -participants evaluation during the courses given by IEEE in Cairo University
     layout: left  
 - layout: left
