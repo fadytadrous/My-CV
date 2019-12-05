@@ -9,7 +9,7 @@
   company: IEEE CUSB
   job_title: Human Resources
   dates: November 2017 - July 2018
-  description: >-  # this will include new lines to allow paragraphs
+  description:   # this will include new lines to allow paragraphs
     -Responsible of managing the sessions 
     -participants evaluation during the courses given by IEEE in Cairo University  
 - layout: left
