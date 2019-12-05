@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 # Projects Section
 # projects_title: Projects
 Blogs: | # this will include new lines to allow paragraphs
-  - [Haberman's Project](https://sbme-tutorials.github.io/sbe304-fall19-project-sbe304-2021-team4/)
+  [Haberman's Project](https://sbme-tutorials.github.io/sbe304-fall19-project-sbe304-2021-team4/)
 
 # Footer
 footer_show_references: true
