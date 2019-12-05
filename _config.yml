@@ -25,12 +25,12 @@ facebook_username: fady.tadrous
 about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Fady and I'm a student in faculty of engineering Cairo university.
-  I'm most skilled in: <mark>Time management</mark> and <mark>Teamwork</mark>
+  I'm most skilled in: <mark>Time management</mark> and <mark>Team work</mark>
 
 # Projects Section
 # projects_title: Projects
-Blogs: | # this will include new lines to allow paragraphs
-  [Haberman's Project](https://sbme-tutorials.github.io/sbe304-fall19-project-sbe304-2021-team4/)
+more_content: | # this will include new lines to allow paragraphs
+  [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
