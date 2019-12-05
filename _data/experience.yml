@@ -12,7 +12,8 @@
   description: | # this will include new lines to allow paragraphs
     -Responsible of managing the sessions
     -participants evaluation during the courses given by IEEE in Cairo University
-    layout: left
+    layout: left  
+- layout: left
   company: Souq.com (an Amazon company)
   link: souq.com
   job_title: Online Seller
