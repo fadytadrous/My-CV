@@ -29,6 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
+# more_content_title: Blog
 more_content: | # this will include new lines to allow paragraphs
   [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
